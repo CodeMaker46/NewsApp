@@ -1,5 +1,5 @@
 const API_KEY = "34bf327f96954126b4c0477547cd6844";
-const url = "https://newsapi.org/v2/everything?q=";
+const url = "https://vepro.hocke.eu/proxy/index.php?https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => fetchNews("India"));
 
